@@ -37,16 +37,6 @@ brunomauro/ ├── assets/ ├── css/ ├── js/ ├── index.html
 
 ---
 
-## 📬 Contato
-
-Entre em contato para sugestões, colaborações ou propostas profissionais:
-
-- **Email**: brunomauro@example.com  
-- **LinkedIn**: [linkedin.com/in/brunomauro](#)  
-- **Telefone**: +244 9XX XXX XXX
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).  
