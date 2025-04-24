@@ -1,4 +1,4 @@
-# 📌 Bruno Mauro — Portfólio Institucional
+# 📌 BM-Comércio — Portfólio Institucional
 
 Este é um website institucional desenvolvido para o profissional **Bruno Mauro**, com o objetivo de apresentar seus serviços, trajetória, áreas de atuação e informações de contato de forma clara e profissional.
 
